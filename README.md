@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SqFounder
 - 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...Python 爬虫
-- 💞️ I’m looking to collaborate on ...网络爬虫
+- 🌱 I’m currently learning ...Python 爬虫，django,vue,深度学习
+- 💞️ I’m looking to collaborate on ...数据分析
 - 📫 How to reach me ...email:1984231730@qq.com
 
 <!---
